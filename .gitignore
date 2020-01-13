@@ -1,0 +1,12 @@
+.DS_Store
+logs
+target
+.idea/
+*.iml
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+.g8
+*.sc
